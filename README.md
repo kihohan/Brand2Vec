@@ -1,5 +1,5 @@
 # Brand2Vec
-상품분류
+
 ### - 데이터셋
 ![캡처](https://user-images.githubusercontent.com/40457277/63262743-c1f44a80-c2c1-11e9-9f2e-82fb76addef2.png)
 ## 화장품
